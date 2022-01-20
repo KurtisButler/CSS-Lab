@@ -3,7 +3,8 @@ body {
   background-color: lightgrey;
 }
 
-h2, p,
+h2,
+p,
 .readme-wrapper {
   text-align: center;
 }
@@ -47,7 +48,7 @@ a:hover {
   height: 50px;
   width: 50px;
   border-radius: 50px;
-  background-color:#ffff00
+  background-color: #ffff00;
 }
 
 .dot1 {
@@ -140,6 +141,4 @@ ul {
 
 .border-style {
   border: black 2px solid;
-  
 }
-
