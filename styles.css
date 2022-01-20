@@ -1,0 +1,96 @@
+body {
+  font-family: Garamond, serif;
+  background-color: lightgrey;
+}
+
+h2, p,
+.readme-wrapper {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+a:hover {
+  cursor: pointer;
+  font-weight: bold;
+  color: darkblue;
+}
+.boxes {
+  display: block;
+  margin: 3em;
+  padding: 2em;
+  border: solid goldenrod;
+  border-radius: 1em;
+  width: 30em;
+}
+
+#box1 {
+  background-color: purple;
+}
+
+#box2 {
+  background-color: fuchsia;
+}
+
+#box3 {
+  background-color: pink;
+}
+
+#box4 {
+  background-color: palegreen;
+}
+
+.image {
+  border-radius: 50px;
+  color:#ffff00
+}
+
+.dot1 {
+  height: 40px;
+  width: 40px;
+  background-color: rgb(255, 255, 0167);
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  bottom: 2em;
+  right: 5.1em;
+}
+
+.dot2 {
+  height: 40px;
+  width: 40px;
+  background-color: rgb(255, 255, 0167);
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  bottom: 2em;
+  right: 4.8em;
+}
+
+.dot3 {
+  height: 40px;
+  width: 40px;
+  background-color: rgb(255, 255, 0167);
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  bottom: 2em;
+  right: 6.5em;
+}
+
+.dot4 {
+  height: 40px;
+  width: 40px;
+  background-color: rgb(255, 255, 0167);
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  bottom: 2em;
+  right: 2.1em;
+}
+
+
+
