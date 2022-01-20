@@ -51,50 +51,6 @@ a:hover {
   background-color: #ffff00;
 }
 
-.dot1 {
-  height: 40px;
-  width: 40px;
-  background-color: rgb(255, 255, 0167);
-  border-radius: 50%;
-  display: inline-block;
-  position: relative;
-  bottom: 2em;
-  right: 5.1em;
-}
-
-.dot2 {
-  height: 40px;
-  width: 40px;
-  background-color: rgb(255, 255, 0167);
-  border-radius: 50%;
-  display: inline-block;
-  position: relative;
-  bottom: 2em;
-  right: 4.8em;
-}
-
-.dot3 {
-  height: 40px;
-  width: 40px;
-  background-color: rgb(255, 255, 0167);
-  border-radius: 50%;
-  display: inline-block;
-  position: relative;
-  bottom: 2em;
-  right: 6.5em;
-}
-
-.dot4 {
-  height: 40px;
-  width: 40px;
-  background-color: rgb(255, 255, 0167);
-  border-radius: 50%;
-  display: inline-block;
-  position: relative;
-  bottom: 2em;
-  right: 2.1em;
-}
-
 h1 {
   color: darkmagenta;
 }
