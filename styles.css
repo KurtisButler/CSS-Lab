@@ -94,5 +94,52 @@ a:hover {
   right: 2.1em;
 }
 
+h1 {
+  color: darkmagenta;
+}
 
+.original {
+  color: darkred;
+}
+
+.additional {
+  color: darkslateblue;
+}
+
+#Show1 {
+  color: greenyellow;
+}
+
+#Show2 {
+  color: cadetblue;
+}
+
+#Show3 {
+  color: azure;
+}
+
+#Show4 {
+  color: khaki;
+}
+
+#Show5 {
+  color: mediumslateblue;
+}
+
+ul {
+  color: crimson;
+}
+
+.star {
+  color: darkorchid;
+}
+
+#wars {
+  color: darkslategray;
+}
+
+.border-style {
+  border: black 2px solid;
+  
+}
 
